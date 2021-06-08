@@ -19,7 +19,7 @@ namespace CoffeeApp
                 {
                     BeanService.SetRemainingBeans();
                     MilkService.MilkUsed = 3;
-                    _milkService.SetRemainingMilk();
+                    MilkService.SetRemainingMilk();
 
                     Console.WriteLine("Cappucinno ready");
                 }

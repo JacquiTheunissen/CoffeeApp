@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeApp", "CoffeeApp.csproj", "{A1184B96-DAD1-4514-AFC1-3BEB17B4ED22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F12D2BEC-A8C9-48AB-A635-C10D2D415043}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeApp.UnitTests", "..\CoffeeApp.UnitTests\CoffeeApp.UnitTests.csproj", "{95A8C0A6-9B3F-4327-97E1-52BBD30265D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A1184B96-DAD1-4514-AFC1-3BEB17B4ED22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1184B96-DAD1-4514-AFC1-3BEB17B4ED22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1184B96-DAD1-4514-AFC1-3BEB17B4ED22}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F12D2BEC-A8C9-48AB-A635-C10D2D415043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F12D2BEC-A8C9-48AB-A635-C10D2D415043}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F12D2BEC-A8C9-48AB-A635-C10D2D415043}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F12D2BEC-A8C9-48AB-A635-C10D2D415043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A8C0A6-9B3F-4327-97E1-52BBD30265D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A8C0A6-9B3F-4327-97E1-52BBD30265D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A8C0A6-9B3F-4327-97E1-52BBD30265D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A8C0A6-9B3F-4327-97E1-52BBD30265D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
